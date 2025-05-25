@@ -146,7 +146,7 @@ msgstr ""
 "Baseado no maravilhoso "
 "[nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/)."
 " Avatares tirados de *[The "
-"Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*. "
+"Office](https://pt.wikipedia.org/wiki/The_Office_(Reino_Unido))*. "
 "Código aberto no [GitHub](https://github.com/nohello-net/site)."
 
 # prefix before a list of languages, i.e. This site is available in: English,
