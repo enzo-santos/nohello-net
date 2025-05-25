@@ -133,7 +133,7 @@ msgstr "👍 valeu"
 msgid "footer.note"
 msgstr ""
 "Isso não é totalmente sério (meio que é 👀), então por favor não fique "
-"[bravo(a)](https://www.youtube.com/watch?v=xzpndHtdl9A) com a pessoa que te "
+"[bravo(a)](https://www.youtube.com/watch?v=k9IxGGJ_u_0) com a pessoa que te "
 "enviou isso."
 
 msgid "footer.warning"
