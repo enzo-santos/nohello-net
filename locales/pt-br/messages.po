@@ -109,7 +109,7 @@ msgid "example.good.message1.timestamp"
 msgstr "14:15"
 
 msgid "example.good.message1.body"
-msgstr "Oie! Que horas era aquele negócio mesmo?"
+msgstr "Oie! Que horas era aquela reunião mesmo?"
 
 msgid "example.good.reply1.timestamp"
 msgstr "14:15"
