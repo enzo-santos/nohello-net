@@ -35,10 +35,10 @@ msgid "example.character.bad.avatar-description"
 msgstr "Avatar do Slack de César"
 
 msgid "example.character.good.name"
-msgstr "Dawn"
+msgstr "Aurora"
 
 msgid "example.character.good.avatar-description"
-msgstr "Avatar do Slack de Dawn"
+msgstr "Avatar do Slack de Aurora"
 
 msgid "example.bad.title"
 msgstr "❌ Não faça isso"
